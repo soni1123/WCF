@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="tys361.WCF.tysService" CodeBehind="tysService.svc.cs" %>

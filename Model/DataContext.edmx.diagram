@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="f8f9bb80e7b04aedaad0f4c6cb107557" Name="Diagram1" ZoomLevel="78">
+        <EntityTypeShape EntityType="DataContextModel.C__MigrationHistory" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.AccessControl" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.AspNetRole" Width="1.5" PointX="7.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.AspNetUserClaim" Width="1.5" PointX="12.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.AspNetUserLogin" Width="1.5" PointX="12.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.AspNetUser" Width="1.5" PointX="10" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.BadgeSelection" Width="1.5" PointX="17.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.BadgeType" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Category" Width="1.5" PointX="3" PointY="39" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.CityMaster" Width="1.5" PointX="3" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.ClassMaster" Width="1.5" PointX="16.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.ClassMaterial" Width="1.5" PointX="7.5" PointY="38.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.ClassType" Width="1.5" PointX="19.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Country" Width="1.5" PointX="0.75" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.CountryMaster" Width="1.5" PointX="18.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Currency" Width="1.5" PointX="5.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.DurationType" Width="1.5" PointX="11.25" PointY="58.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Enquiry" Width="1.5" PointX="15" PointY="18" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.EnquiryExternal" Width="1.5" PointX="7.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.EnquiryType" Width="1.5" PointX="12.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Event" Width="1.5" PointX="9.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.ExamCalendar" Width="1.5" PointX="19.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.ExpertAdvise" Width="1.5" PointX="19.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.FAQ" Width="1.5" PointX="7.5" PointY="44" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Feedback" Width="1.5" PointX="3" PointY="18" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.FeedbackQuestion" Width="1.5" PointX="0.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.FreeTrialMock" Width="1.5" PointX="21.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.GenerateParentLogin" Width="1.5" PointX="21.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.GenerateStudentLogin" Width="1.5" PointX="21.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Invoice_Details" Width="1.5" PointX="21.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.JumbleType" Width="1.5" PointX="21.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.LastMinuteRevision" Width="1.5" PointX="10.5" PointY="53.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.LectureVideo" Width="1.5" PointX="7.5" PointY="52.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.LevelMaster" Width="1.5" PointX="0.75" PointY="39.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.MatchingQstnAnswer" Width="1.5" PointX="24" PointY="40.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.MatrixMatch" Width="1.5" PointX="11.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.MCQAnswer" Width="1.5" PointX="24" PointY="44.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.MCQAnswersMock" Width="1.5" PointX="17.75" PointY="22.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Message" Width="1.5" PointX="23.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.MissedCallData" Width="1.5" PointX="0.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.MobileVerificationMst" Width="1.5" PointX="2.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Note" Width="1.5" PointX="7.5" PointY="57.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Notice" Width="1.5" PointX="23.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Notification" Width="1.5" PointX="23.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.OnDemandNote" Width="1.5" PointX="7.5" PointY="62.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Organization" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.PackageSelection" Width="1.5" PointX="23.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.PackagesType" Width="1.5" PointX="13.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.ParentDetail" Width="1.5" PointX="23.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.PreviousYear" Width="1.5" PointX="23.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.PreviousYearExamType" Width="1.5" PointX="3" PointY="44.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.PreviousYearQuestion" Width="1.5" PointX="5.25" PointY="38.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.QuestionPattern" Width="1.5" PointX="7.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.QuestionTypeSet" Width="1.5" PointX="25.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.RequestToBeTeacher" Width="1.5" PointX="25.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.RevisionTest" Width="1.5" PointX="4.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.RevisionTestAnswer" Width="1.5" PointX="24" PointY="59.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.RevisionType" Width="1.5" PointX="25.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.RoleMaster" Width="1.5" PointX="14.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.ScheduleMockTest" Width="1.5" PointX="25.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.SchoolMaster" Width="1.5" PointX="5.25" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Site" Width="1.5" PointX="5.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.SolutionType" Width="1.5" PointX="19.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StateMaster" Width="1.5" PointX="0.75" PointY="13.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StateProvince" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudentCategoryMapping" Width="1.5" PointX="5.25" PointY="34.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudentPackageSelection" Width="1.5" PointX="25.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudentRevisionTest" Width="1.5" PointX="15.75" PointY="53.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudentRevisionTopic" Width="1.5" PointX="7.5" PointY="67.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudentTestAnswer" Width="1.5" PointX="21.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudentTest" Width="1.5" PointX="18.75" PointY="52.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudyMaterial" Width="1.5" PointX="7.5" PointY="71.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Subscription" Width="1.5" PointX="27.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.SupportComment" Width="1.5" PointX="27.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.SupportTicket" Width="1.5" PointX="27.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.SupportType" Width="1.5" PointX="0.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.SyllabusMaster" Width="1.5" PointX="9.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.SystemDetail" Width="1.5" PointX="27.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TaxCategory" Width="1.5" PointX="15.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TaxRate" Width="1.5" PointX="27.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_AssessmentCategory" Width="1.5" PointX="27.75" PointY="23.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_BackgroundMailTemplates" Width="1.5" PointX="23.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_Branch" Width="1.5" PointX="25.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_Client" Width="1.5" PointX="12" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_ClientCategory" Width="1.5" PointX="9.75" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_ClientCoordinators" Width="1.5" PointX="14.25" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_CommissionMaster" Width="1.5" PointX="19" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_CommNameMaster" Width="1.5" PointX="16.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_DefaultMailer" Width="1.5" PointX="27.75" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_EmailLog" Width="1.5" PointX="6.75" PointY="28.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_EmailTemplates" Width="1.5" PointX="29.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_ExpenseCategory" Width="1.5" PointX="29.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_ExpenseNote" Width="1.5" PointX="29.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_FeeMaster" Width="1.5" PointX="17" PointY="13" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_InvoiceDetails" Width="1.5" PointX="11.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_MailingList" Width="1.5" PointX="10" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_MiscFee" Width="1.5" PointX="7.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_PostAgreementTemplate" Width="1.5" PointX="29.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_ProgramMaster" Width="1.5" PointX="14.75" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_PromoCode" Width="1.5" PointX="29.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_Reference" Width="1.5" PointX="17.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_Refund" Width="1.5" PointX="29.75" PointY="20.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_SMSConfig" Width="1.5" PointX="29.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_SMTPConfig" Width="1.5" PointX="7.75" PointY="15" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.tbl_UserDetails" Width="1.5" PointX="29.75" PointY="29.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Teacher" Width="1.5" PointX="13.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TeacherCategoryMap" Width="1.5" PointX="10.5" PointY="46.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TeacherExperience" Width="1.5" PointX="25.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TeacherQualification" Width="1.5" PointX="31.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Test" Width="1.5" PointX="13.5" PointY="52.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Test_TestQuestionMap" Width="1.5" PointX="31.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TestAnalytic" Width="1.5" PointX="31.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TestAnswersEvaluation" Width="1.5" PointX="21" PointY="51.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TestQuestion" Width="1.5" PointX="21.75" PointY="44.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TestQuestionMock" Width="1.5" PointX="31.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TestReminder" Width="1.5" PointX="15.75" PointY="66.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TestSolution" Width="1.5" PointX="19.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TestTotalMark" Width="1.5" PointX="21" PointY="55.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TestType" Width="1.5" PointX="11.25" PointY="63" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Topic" Width="1.5" PointX="5.25" PointY="52.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.UploadedQuestEvaluation" Width="1.5" PointX="24" PointY="53.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.User_Org_Site_Maping" Width="1.5" PointX="31.75" PointY="21.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.UserActivityLog" Width="1.5" PointX="21.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.UserDetail" Width="1.5" PointX="3" PointY="30.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.UserLogDetail" Width="1.5" PointX="31.75" PointY="25.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.UserRoleMap" Width="1.5" PointX="17" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Vendor" Width="1.5" PointX="31.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.VendorMaster" Width="1.5" PointX="7.75" PointY="32.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.VideoTypeMaster" Width="1.5" PointX="33.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Discount" Width="1.5" PointX="33.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.ObjectiveType" Width="1.5" PointX="33.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudentTestSchedule" Width="1.5" PointX="33.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.Invoicevw" Width="1.5" PointX="15.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.OnlineCategoryWiseTestVw" Width="1.5" PointX="33.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.PackageStudentSelection_view" Width="1.5" PointX="33.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.PostAgreementTempView" Width="1.5" PointX="33.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.RecentTest" Width="1.5" PointX="7.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.RecentTestsView" Width="1.5" PointX="33.75" PointY="33.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudentMockTestScheduleView" Width="1.5" PointX="35.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudentTestAnswerVw" Width="1.5" PointX="35.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudentTestScheduleView" Width="1.5" PointX="9.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.StudentTestScheduleVw" Width="1.5" PointX="35.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TestQuestionsMockView" Width="1.5" PointX="35.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TestQuestionsVw" Width="1.5" PointX="35.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TestVw" Width="1.5" PointX="26.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TopicSubjectVw" Width="1.5" PointX="21.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.TotalQuestionAnswersVw" Width="1.5" PointX="23.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.UserDetailsVW" Width="1.5" PointX="35.75" PointY="31.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_ClientCoordinators" Width="1.5" PointX="11.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_ClientList" Width="1.5" PointX="17.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_clientMail" Width="1.5" PointX="31.75" PointY="36.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_CommMaster" Width="1.5" PointX="37.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_DefaultMailer" Width="1.5" PointX="37.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_ExpenseNote" Width="1.5" PointX="37.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_InvoiceDetails" Width="1.5" PointX="37.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_MailConfig" Width="1.5" PointX="37.75" PointY="19.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_MiscFee" Width="1.5" PointX="37.75" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_ProgramFee_New" Width="1.5" PointX="37.75" PointY="30.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_ProgramFeeMaster" Width="1.5" PointX="37.75" PointY="35.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_Reference" Width="1.5" PointX="28.75" PointY="38.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_Refund" Width="1.5" PointX="33.75" PointY="38.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_RefundClient" Width="1.5" PointX="39.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_SupportTicketView" Width="1.5" PointX="39.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DataContextModel.vw_UserInfo" Width="1.5" PointX="39.75" PointY="9.75" IsExpanded="true" />
+        <AssociationConnector Association="DataContextModel.FK_dbo_AspNetUserClaims_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_dbo_AspNetUserLogins_dbo_AspNetUsers_UserId" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_Category_LevelMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_PreviousYearQuestions_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_StudentTopicMapping_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_TeacherCategoryMap_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_Topic_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_CityMaster_StateMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_SchoolMaster_CityMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_ClassMaterial_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.Site_Country" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.StateProvince_Country" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_CreateTest_DurationType" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_Enquiry_EnquiryType" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_FAQ_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_Feedback_FeedbackQuestion" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_LastMinuteRevision_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_LastMinuteRevision_UserDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_LectureVideo_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK__MatchingQ__Match__7CBB2186" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_MCQAnswers_TestQuestion" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_Notes_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_OnDemandNotes_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.Site_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_PreviousYearQuestions_PreviousYearExamType" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_RevisionTestAnswer_TestQuestion" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_UserRoleMap_RoleMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.Site_StateProvince" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_StudentCategoryMapping_UserDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_StudentRevisionTest_Test" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_StudentRevisionTest_UserDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_StudentRevisionTopic_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_StudentTests_CreateTest" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_StudentTests_UserDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_TestAnswersEvaluation_StudentTests" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_TestTotalMarks_StudentTests" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_UploadedQuestEvaluation_StudentTests" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_StudyMaterial_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_tbl_Client_tbl_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_tbl_ClientCoordinators_tbl_Client" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_tbl_CommissionMaster_tbl_CommNameMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_tbl_FeeMaster_tbl_ProgramMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_tbl_MailingList_tbl_SMTPConfig" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_tbl_MiscFee_tbl_MiscFee" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_TeacherCategoryMap_Topic" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_TeacherCategoryMap_UserDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_CreateTest_TestType" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_Test_TopicMaster" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_TestReminder_TestIdr" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.FK_UploadedQuestEvaluation_TestQuestion" ManuallyRouted="false" />
+        <AssociationConnector Association="DataContextModel.AspNetUserRoles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
